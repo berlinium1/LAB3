@@ -6,7 +6,6 @@ int main(){
     float x;
     cout << "Print x: "<<endl;
     cin >> x;
-    cout << "Print x: "<<x<<endl;
     float eps = 0.00001;
     //для простоти розуміння введемо змінні a=x/(b*d); d=k!; b=2^k; x1=x^(2*k)
     int k=0;
